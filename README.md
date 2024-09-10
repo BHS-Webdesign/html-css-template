@@ -1,55 +1,38 @@
-### A basic template to get started with HTML, CSS, and JavaScript
+# Get Started as the Web Got Started
 
-This project is a fork of the [HTML5 Boilerplate](http://html5boilerplate.com).  
-It has been simplified for those starting out with web development and programming.
+In this assignment, you will get a taste for making web pages, back in the days when the World Wide Web was terrible. Well, it wasn't terrible, it was just designed for academics, government officials, and folks working for the national defense. And what did these guys like? Boring stuff. To honnor them, we too will start with boring.
 
-An [**example site**](http://pfnp.adrianbautista.com) built with this template.
+Tim Berners-Lee was and still is the legendary leader of the boring crew and is the actual inventor of the WWW. And it was recent enough, you can still visit it [here](https://info.cern.ch/hypertext/WWW/TheProject.html). It was made on August 6, 1991. Just before that, GRUNG music started in Seattle, and shortly after that, I started college in St. Paul, MN.
 
-## Quick start
+Since you know something about boring academic stuff, I want you to imagine you are writing a paper. Can be a History paper, or an English paper, but this is going to be a big one. It must have at least 3 sections and each of those section must have at least 2 sections in them. And of course you should have a title and an introduction and a conclusion and a bibliography (we will talk more about the bibliography later). It must be about a "real topic" such that the headlines are real, but the text itself can be Latin (if you ever want to seem smart, say it in Latin). You can auto generate your Latin, [here](https://loremipsum.io/).
 
-### How to download this template:
+To give you an example, as you know, we all have a ifs and buts in our lives. Maybe you want to write a paper on your big butt. The headlines would look something like this, but you will fill in paragrphs in Latin under each headline. At least 1 headline must have 3 latin paragraphs under it.
 
-1. **Easy Way** - Download the `.zip` file
-   * You can use the "Download ZIP" button in the right sidebar or click [this link](https://github.com/adrianbautista/html-css-template/archive/pfnp.zip).
-   * Unzip the template by double clicking on the downloaded `html-css-template-pfnp.zip` file.
-2. **Programmer Way** - Clone the Git Repo
-   * If you have git on your computer and a github account, you can clone this project from the command line
-     ```
-     git clone https://github.com/adrianbautista/html-css-template.git
-     ```
+---
 
-### How to use this template:
+Title: My Big Butt
 
-1. Opening the template
-     * If you downloaded the zip file, open the unzipped **folder** `html-css-template-pfnp` in a text editor  
-     (e.g. [Sublime Text 2](http://www.sublimetext.com/2)).
-     * If you cloned the project using git, open the **folder** `html-css-template` in a text editor  
-     (e.g. [Sublime Text 2](http://www.sublimetext.com/2)).
+...a couple of sentences of intro text...
 
-2. Using the template  
-  
-   #### HTML
-     * Start with `index.html`, this will be your root page (the main page)  
-       Questions about its content? Refer to `template.html`  
-     * To make new HTML pages, duplicate `template.html` inside the folder and rename it to the URL path you want.  
-       ```
-       about.html => my_website.com/about
-       ```  
-       *It's recommended that you delete the explanation comments in any new HTML pages*
+Why Big Butts are Important
 
-   #### CSS
-     * Start with `main.css` inside the `css` folder
-     * What are `normalize.css` and `html5-boilerplate.css` for?  
-       They make basic styles consistent across all kinds of web browsers
+* People like them
+* Dogs love them
 
-   #### JavaScript
-     * Start with `main.js` inside the `js` folder
-     * What's jQuery? It's a JavaScript library that allows you to manipulate your website much more easily with JavaScript
-     * If you download any jQuery plugins, paste a minified version of them into `plugins.js`
+Other Sized Butts in History
+* Did they exist
+* Why did they exist
+* Where can I get an extra one
 
-   #### Images
-     * If you want to host your own images, put the image file (.jpg, .png, .gif) inside the images directory.  
-       Then the source on an **img tag** will be  
-       ```
-       <img src="/images/your_picture.jpg">
-       ```
+Glutamus Maximus and Other Fun Words
+* Wordle is fun
+* That has nothing to do with Butts
+
+Conclusion: 
+blah, blah, blah, the end.
+
+---
+
+You will need to come up with your own topic, but it can be equally rediculous or it can be super serious. Ideally it will make you smile. You might think about images you will add later.
+
+Once that is done, we will add TAGS! Tags will make this still boring, but much better.
